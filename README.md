@@ -2,9 +2,8 @@
 Implement the PyTorch version of the model described in [Global prediction of extreme floods in ungauged watersheds](https://www.nature.com/articles/s41586-024-07145-1)
 ## Requirements
 ```
-conda create -n <env> python=3.10
-conda activate <env>
 conda create --name <env> --file requirements.txt
+conda activate <env>
 ```
 ## V1
 ![v1](pics/v1.png)
